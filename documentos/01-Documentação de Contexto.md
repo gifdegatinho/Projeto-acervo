@@ -35,6 +35,14 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 ## Público-Alvo
 
 > - Pessoas que precisam de alternativa mais eficiente e ágil ao acesso de informações. 
+> - Pessoas que buscam conhecimentos, como estudantes e professores que precisam pesquisar sobre assuntos diversos, sem a necessidade de se deslocarem até uma biblioteca física. 
+>  - Pessoas que buscam dados científicos, tais como pesquisadores, cientistas...afim de atender às necessidades de informação científica de maneira ágil e acesso ao acervo da biblioteca onde e quando quiser! 
+
+
+
+
+
+
 
 
 
