@@ -46,23 +46,32 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-
-|RF-001| O sistema deve permitir o registro de livros, incluindo informações como título, autor, editora, ano de publicação, número de páginas. | ALTA | 
-|RF-002| O sistema deve permitir a catalogação dos livros de acordo com diferentes critérios, como autor, título, assunto. | MÉDIA |
-|RF-002| O sistema deve permitir o empréstimo de livros para usuários cadastrados, incluindo a definição de prazos e limites de empréstimo.
-|RF-003| O sistema deve permitir a renovação do empréstimo de livros, desde que o prazo de devolução não tenha expirado.
-|RF-004| O sistema deve permitir a geração de relatórios, como relatórios de empréstimos.
-|RF-005| O sistema deve permitir que os usuários acessem o acervo de livros remotamente, através de uma plataforma online, por exemplo.
-|RF-006| O sistema deve permitir o cadastro, consulta, atualização e exclusão dos usuários.
+> |RF-001| O sistema deve permitir o registro de livros, incluindo informações como título, autor, editora, ano de publicação, número de páginas. |ALTA| 
+>
+> |RF-002| O sistema deve permitir a catalogação dos livros de acordo com diferentes critérios, como autor, título, assunto. |MÉDIA|
+>
+> |RF-002| O sistema deve permitir o empréstimo de livros para usuários cadastrados, incluindo a definição de prazos e limites de empréstimo. |ALTA| 
+>
+> |RF-003| O sistema deve permitir a renovação do empréstimo de livros, desde que o prazo de devolução não tenha expirado. |MÉDIA|
+>
+> |RF-004| O sistema deve permitir a geração de relatórios, como relatórios de empréstimos. |MÉDIA|
+>
+> |RF-005| O sistema deve permitir que os usuários acessem o acervo de livros remotamente, através de uma plataforma online, por exemplo. |ALTA| 
+>
+> |RF-006| O sistema deve permitir o cadastro, consulta, atualização e exclusão dos usuários. |ALTA| 
 
 ### Requisitos não Funcionais
 
 
-|RNF-001| O sistema deve ser capaz de lidar com um grande número de usuários e transações simultâneas sem comprometer o desempenho. | MÉDIA | 
-|RNF-002| O sistema deve estar disponível para uso a maior parte do tempo, com tempos de inatividade planejados para manutenção. | MÉDIA | 
-|RNF-003| O sistema deve ser flexível e capaz de se adaptar às mudanças nos requisitos e na estrutura organizacional.
-|RNF-004| O sistema deve ser confiável, com alteração de backup e recuperação de falhas para garantir a integridade dos dados.
-|RNF-005| O sistema deverá ser desenvolvido na linguagem C#.
+> |RNF-001| O sistema deve ser capaz de lidar com um grande número de usuários e transações simultâneas sem comprometer o desempenho. |MÉDIA| 
+> 
+> |RNF-002| O sistema deve estar disponível para uso a maior parte do tempo, com tempos de inatividade planejados para manutenção. |MÉDIA| 
+> 
+> |RNF-003| O sistema deve ser flexível e capaz de se adaptar às mudanças nos requisitos e na estrutura organizacional. |ALTA| 
+> 
+> |RNF-004| O sistema deve ser confiável, com alteração de backup e recuperação de falhas para garantir a integridade dos dados. |MÉDIA| 
+> 
+> |RNF-005| O sistema deverá ser desenvolvido na linguagem C#. |ALTA| 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
