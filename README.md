@@ -1,10 +1,10 @@
-# TÍTULO DO PROJETO
+# Acervo de Livros
 
-`CURSO`
+`Sistemas para Internet`
 
 `DISCIPLINA`
 
-`SEMESTRE`
+`TERCEIRO SEMESTRE`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
