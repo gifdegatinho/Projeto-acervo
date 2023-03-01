@@ -6,7 +6,7 @@
 
 `TERCEIRO SEMESTRE`
 
-Projeto de um aervo digital para uma biblioteca.
+Projeto de um acervo digital para uma biblioteca.
 
 ## Integrantes
 
