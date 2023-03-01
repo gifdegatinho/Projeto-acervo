@@ -27,46 +27,23 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas | 
-|Futuro Usuario | Fazer Login |  Ter acesso|
+|--------------------|------------------------------------|----------------------------------------|  
+|Futuro Usuario | Fazer Login |  Ter acesso |
 |Estudante | Adquirir acesso ao menu de diversos Temas e Gêneros textuais | Agilizar minha procura |
-| 
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+|Professor | Ter acesso especifico para docentes com vários temas | Alcançar de maneira ágil todo o material direcionado para ensino didático |
+|Pesquisador científico  |  Ter um histórico de minhas aquisições, e solicitações de reserva |  Ter um registro de minhas pesquisas | 
+|Profissional no ramo de Engenharia Civil |  Opção de visualizar material mais alinhado com minha área de atuação |  Localizar tópicos específicos |
+|Amante da leitura  |  Acesso por Título, Autor, Assunto, Tema |  Tornar minha busca Personalizada à minha escolha |
+|Portador de deficiência  |  Usufruir de ferramentas que me conceda acessibilidade , como leitores de telas, tradutores de língua para libras... |  Ter inclusão social |
+|Usuário do sistema |  Quero poder baixar E-Books |  Ter acesso of-Line, E-Reards...| 
+|Usu´rio do sistema |  Fazer Impressão | Ter acesso físico a alguma informa | 
+|Usuário do sistema |  Ver de forma sucinta as regras de serviço, como: empréstimos, valores, multas, renovação, reservas |  tomar ciência sem perder tempo |
+|Usuário  do sistema |  Canal de comunicação como: chat, e-mail, WhatsApp |  Tirar dúvidas  | 
+|Administrador |  Alterações no cadastro do usuário  |  Controle e administração |
+|Administrador | Relatório de locações com filtro de datas | Controle financeiro |
+|Administrador | Canal de comunicação com o usuário do sistema | Alertas de vencimento de entrega|
+|Administrador  | De acordo com o perfil do usuário sugerir opções | Ter um contato mais próximo com o cliente| 
+|Administrador | cadastro com senha na hierarquia de administração  | controle ordenado por nível de comando|
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
