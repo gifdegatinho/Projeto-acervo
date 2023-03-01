@@ -1,4 +1,4 @@
-# Acervo de Livros
+# Acervo Digital
 
 `Sistemas para Internet`
 
@@ -6,14 +6,17 @@
 
 `TERCEIRO SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Projeto de um aervo digital para uma biblioteca.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Cristhyam Augusto;
+* Gabriel Rodrigues Ferro;
+* Isadora Cristina Bittencourt;
+* Letícia Rose;
+* Luana Berato dos Santos;
+* Marcia Carvalho;
+* Maria Eduarda Almeida
 
 ## Orientador
 
