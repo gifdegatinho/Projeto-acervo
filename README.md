@@ -20,7 +20,7 @@ Projeto de um acervo digital para uma biblioteca.
 
 ## Orientador
 
-* Nome completo do professor 1
+* Will Ricardo dos Santos Machado 
 
 ## Instruções de utilização
 
